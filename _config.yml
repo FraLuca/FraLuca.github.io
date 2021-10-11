@@ -1,2 +1,5 @@
 name: STSGCN
 title: Space-Time-Separable Graph Convolutional Network for Pose Forecasting
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false
