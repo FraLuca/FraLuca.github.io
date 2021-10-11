@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 name: STSGCN
-title: null
+github:
+  is_project_page: false
