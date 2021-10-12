@@ -16,7 +16,7 @@
 [Talk](https://youtu.be/tQIygtJrrtk){: .btn .btn-purple .mr-4}
 [More Qualitative Results](https://youtu.be/S8yhxdbN3e4){: .btn .btn-purple .mr-4}
 [Code](https://github.com/FraLuca/STSGCN){: .btn .btn-green .mr-4}
- </div>
+</div>
 
 --------
 
