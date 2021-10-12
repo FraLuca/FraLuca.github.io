@@ -8,14 +8,14 @@
 --------
 
 
-<div align="center">[Abstract](https://fraluca.github.io/#abstract){: .btn .btn-blue .mr-4}
+[Abstract](https://fraluca.github.io/#abstract){: .btn .btn-blue .mr-4}
 [Paper](https://arxiv.org/abs/2110.04573){: .btn .btn-blue .mr-4}
-[Poster and Slides](https://fraluca.github.io/#poster-and-slides){: .btn .btn-blue .mr-4}</div>
+[Poster and Slides](https://fraluca.github.io/#poster-and-slides){: .btn .btn-blue .mr-4}
 
 
-<div align="center">[Talk](https://youtu.be/tQIygtJrrtk){: .btn .btn-purple .mr-4}
+[Talk](https://youtu.be/tQIygtJrrtk){: .btn .btn-purple .mr-4}
 [More Qualitative Results](https://youtu.be/S8yhxdbN3e4){: .btn .btn-purple .mr-4}
-[Code](https://github.com/FraLuca/STSGCN){: .btn .btn-green .mr-4}</div>
+[Code](https://github.com/FraLuca/STSGCN){: .btn .btn-green .mr-4}
 
 
 --------
@@ -50,7 +50,7 @@ In experimental evaluation on three complex, recent and large-scale benchmarks, 
 </p>
 
 
-
+{: .fs-9 }
 
 
 --------
