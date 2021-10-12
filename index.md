@@ -53,7 +53,7 @@ In experimental evaluation on three complex, recent and large-scale benchmarks, 
 --------
 
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://1drv.ms/p/s!Ak9Rd9rTVg6BnwFOeZIFOYtwzj0d?e=7nPJcr]' width='100%' height='100%' frameborder='0'>
+<iframe src="https://onedrive.live.com/embed?cid=810E56D3DA77514F&amp;resid=810E56D3DA77514F%213969&amp;authkey=APH1cxBycnfMUs0&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">Documento di <a target="_blank" href="https://office.com">Microsoft Office</a> incorporato, con tecnologia <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 
 
