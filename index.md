@@ -5,13 +5,6 @@
  <h4> <i>Sapienza University of Rome, Italy</i></h4>
 </div>
 
-
-<div align="center">
-    <img src="/images/pipeline-cameraready-1.png" width="700" alt="centered image" />
-</div>
-
-{: .fs-9 }
-
 --------
 
 
@@ -24,6 +17,18 @@
 --------
 
 {: .fs-9 }
+
+
+<div align="center">
+    <img src="/images/pipeline-cameraready-1.png" width="700" alt="centered image" />
+</div>
+
+{: .fs-9 }
+
+--------
+
+
+
 
 # Abstract
 Human pose forecasting is a complex structured-data sequence-modelling task, which has received increasing attention, also due to numerous potential applications. Research has mainly addressed the temporal dimension as time series and the interaction of human body joints with a kinematic tree or by a graph. This has decoupled the two aspects and leveraged progress from the relevant fields, but it has also limited the understanding of the complex structural joint spatio-temporal dynamics of the human pose.
