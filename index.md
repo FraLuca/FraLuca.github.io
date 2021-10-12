@@ -46,7 +46,7 @@ In experimental evaluation on three complex, recent and large-scale benchmarks, 
 # Poster and Slides
 
 <p align="center">
-    <embed src="/images/7726_Poster.pdf" frameBorder="0" scrolling="auto" height="100%" width="100%"/>
+    <embed src="/images/7726_Poster.pdf" frameBorder="0" height="100%" width="100%"/>
 </p>
 
 
