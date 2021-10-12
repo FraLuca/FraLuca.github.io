@@ -7,25 +7,27 @@
 
 --------
 
-<div align="center">
-[Abstract](https://fraluca.github.io/#abstract){: .btn .btn-blue .mr-4}
-[Paper](https://arxiv.org/abs/2110.04573){: .btn .btn-blue .mr-4}
-[Poster and Slides](https://fraluca.github.io/#poster-and-slides){: .btn .btn-blue .mr-4}
+<p align="center">
+    [Abstract](https://fraluca.github.io/#abstract){: .btn .btn-blue .mr-4}
+    [Paper](https://arxiv.org/abs/2110.04573){: .btn .btn-blue .mr-4}
+    [Poster and Slides](https://fraluca.github.io/#poster-and-slides){: .btn .btn-blue .mr-4}
+</p>
+ 
 
-
-[Talk](https://youtu.be/tQIygtJrrtk){: .btn .btn-purple .mr-4}
-[More Qualitative Results](https://youtu.be/S8yhxdbN3e4){: .btn .btn-purple .mr-4}
-[Code](https://github.com/FraLuca/STSGCN){: .btn .btn-green .mr-4}
-</div>
+<p align="center">
+    [Talk](https://youtu.be/tQIygtJrrtk){: .btn .btn-purple .mr-4}
+    [More Qualitative Results](https://youtu.be/S8yhxdbN3e4){: .btn .btn-purple .mr-4}
+    [Code](https://github.com/FraLuca/STSGCN){: .btn .btn-green .mr-4}
+</p>
 
 --------
 
 {: .fs-9 }
 
 
-<div align="center">
+<p align="center">
     <img src="/images/pipeline-cameraready-1.png" width="700" alt="centered image" />
-</div>
+</p>
 
 {: .fs-9 }
 
