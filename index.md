@@ -5,7 +5,7 @@
  <h4> <i>Sapienza University of Rome, Italy</i></h4>
 
 
-<image src="/images/pipeline-cameraready-1.png" width="600">
+<image src="/images/pipeline-cameraready-1.png" width="600" class="center">
 
 </div>
  
