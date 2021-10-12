@@ -45,14 +45,19 @@ In experimental evaluation on three complex, recent and large-scale benchmarks, 
 
 # Poster and Slides
 
+
+
+
 <p align="center">
     <embed src="/images/7726_Poster.pdf" frameBorder="0" height="100%" width="100%"/>
 </p>
 
+{: .fs-9 }
+--------
 
-<p align="center">
-    <img src="/images/7726_Poster_page-0001.jpg" alt="centered image" />
-</p>
+
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://docs.google.com/presentation/d/17YLLaXjS-UCuymvT-bzyBHTAakaUvBxF/edit?usp=sharing&ouid=115612618583173369053&rtpof=true&sd=true]' width='100%' height='100%' frameborder='0'>
+
 
 
 
