@@ -7,7 +7,7 @@
 
 
 <center>
-    <image src="/images/pipeline-cameraready-1.png" width="600" class="center"alt="centered image" />
+    <img src="/images/pipeline-cameraready-1.png" alt="centered image" />
 </center>
 
 
