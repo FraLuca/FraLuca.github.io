@@ -15,8 +15,6 @@
 
 [Talk](https://youtu.be/tQIygtJrrtk){: .btn .btn-purple .mr-4}
 [More Qualitative Results](https://youtu.be/S8yhxdbN3e4){: .btn .btn-purple .mr-4}
-
-
 [Code](https://github.com/FraLuca/STSGCN){: .btn .btn-green .mr-4}
 
 --------
@@ -48,13 +46,7 @@ In experimental evaluation on three complex, recent and large-scale benchmarks, 
 
 {: .fs-9 }
 
-# Talk
 
-{: .fs-9 }
-
-# More Qualitative Results
-
-{: .fs-9 }
 
 
 --------
