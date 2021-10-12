@@ -50,6 +50,12 @@ In experimental evaluation on three complex, recent and large-scale benchmarks, 
 </p>
 
 
+<p align="center">
+    <img src="/images/7726_Poster_page-0001.jpg" alt="centered image" />
+</p>
+
+
+
 {: .fs-9 }
 
 
