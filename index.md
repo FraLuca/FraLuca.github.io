@@ -4,7 +4,7 @@
 <h3> <i>Theodoros Sofianos†, Alessio Sampieri†, Luca Franco and Fabio Galasso</i></h3>
  <h4> <i>Sapienza University of Rome, Italy</i></h4>
 
-<image src="https://github.com/FraLuca/STSGCN/blob/main/pipeline-cameraready-1.png" width="600">
+<image src="https://github.com/FraLuca/FraLuca.github.io/blob/main/images/pipeline-cameraready-1.png" width="600">
 </div>
 
 <div align="center"> <h3> Abstract </h3>  </div>
