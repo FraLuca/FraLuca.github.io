@@ -6,9 +6,9 @@
 </div>
 
 
-<center>
-    <img src="/images/pipeline-cameraready-1.png" alt="centered image" />
-</center>
+<div align="center">
+    <img src="/images/pipeline-cameraready-1.png" width="700" alt="centered image" />
+</div>
 
 --------
 
