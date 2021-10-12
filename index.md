@@ -11,14 +11,12 @@
 
 
 
-[Abstract](https://fraluca.github.io/#abstract){: .btn .btn-blue .mr-4}
-[Paper](https://arxiv.org/abs/2110.04573){: .btn .btn-blue .mr-4}
-[Poster and Slides](https://fraluca.github.io/#poster-and-slides){: .btn .btn-blue .mr-4}
-
-
-[Talk](https://youtu.be/tQIygtJrrtk){: .btn .btn-purple .mr-4}
-[More Qualitative Results](https://youtu.be/S8yhxdbN3e4){: .btn .btn-purple .mr-4}
-[Code](https://github.com/FraLuca/STSGCN){: .btn .btn-green .mr-4}
+[Abstract](https://fraluca.github.io/#abstract){: .btn .btn-blue .mr-2}
+[Paper](https://arxiv.org/abs/2110.04573){: .btn .btn-blue .mr-2}
+[Poster and Slides](https://fraluca.github.io/#poster-and-slides){: .btn .btn-blue .mr-2}
+[Talk](https://youtu.be/tQIygtJrrtk){: .btn .btn-purple .mr-2}
+[More Qualitative Results](https://youtu.be/S8yhxdbN3e4){: .btn .btn-purple .mr-2}
+[Code](https://github.com/FraLuca/STSGCN){: .btn .btn-green .mr-2}
 
 
 --------
