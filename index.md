@@ -12,6 +12,15 @@
 
 --------
 
+
+[Abstract](https://fraluca.github.io/#abstract){: .btn }
+[Poster and Slides](https://fraluca.github.io/#poster-and-slides){: .btn .btn-purple }
+[Talk](https://fraluca.github.io/#talk){: .btn .btn-blue }
+[More Qualitative Results](https://fraluca.github.io/#more-qualitative-results){: .btn .btn-yellow }
+[Code](https://fraluca.github.io/#code){: .btn .btn-green }
+
+--------
+
 # Abstract
 Human pose forecasting is a complex structured-data sequence-modelling task, which has received increasing attention, also due to numerous potential applications. Research has mainly addressed the temporal dimension as time series and the interaction of human body joints with a kinematic tree or by a graph. This has decoupled the two aspects and leveraged progress from the relevant fields, but it has also limited the understanding of the complex structural joint spatio-temporal dynamics of the human pose.
 
