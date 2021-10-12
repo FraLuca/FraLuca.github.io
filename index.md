@@ -47,9 +47,10 @@ In experimental evaluation on three complex, recent and large-scale benchmarks, 
 
 # Poster and Slides
 
-<embed src="/images/7726_Poster.pdf" />
+<p align="center">
+    <embed src="/images/7726_Poster.pdf" />
+</p>
 
-{: .fs-9 }
 
 
 
