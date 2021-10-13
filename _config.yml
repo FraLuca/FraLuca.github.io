@@ -2,5 +2,5 @@ name: STSGCN
 title: STSGCN
 logo: /images/1200px-Uniroma1.svg.png
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
+color_scheme: "light"
 search_enabled: false
