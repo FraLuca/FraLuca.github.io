@@ -4,8 +4,9 @@ title: Publications
 subtitle: List of my research activities
 ---
 
-Here is a short intro
-Most recent publications on Google Scholar.
+Welcome to my publications page. Below, you can find a curated list of my research work.  
+For the most recent and updated list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=c5jyrK4AAAAJ&hl=en).  
+
 
 
 **Hyperbolic Learning with Multimodal Large Language Models** [PDF](https://arxiv.org/abs/2408.05097)  
