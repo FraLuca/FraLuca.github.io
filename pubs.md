@@ -9,9 +9,9 @@ Most recent publications on Google Scholar.
 
 
 **Hyperbolic Learning with Multimodal Large Language Models**  
-  *Keywords:* <span style="color: gray;"><span style="font-size: 20px;">Hyperbolic neural networks, Multimodal learning, Large language models, Uncertainty estimation</span></span>  
-  *Published in:* <span style="font-size: 12px;">ECCV-W 2024</span>  
-  *Authors:* <span style="color: gray; style="font-size: 20px;">Paolo Mandica · **Luca Franco** · Konstantinos Kallidromitis · Suzanne Petryk · Fabio Galasso</span>  
+  *Keywords:* <span style="color: gray;"><span style="font-size: 17px;">Hyperbolic neural networks, Multimodal learning, Large language models, Uncertainty estimation</span></span>  
+  *Published in:* <span style="font-size: 15px;">ECCV-W 2024</span>  
+  *Authors:* <span style="color: gray;"><span style="font-size: 17px;">Paolo Mandica · **Luca Franco** · Konstantinos Kallidromitis · Suzanne Petryk · Fabio Galasso</span></span>  
   [ArXiv](https://arxiv.org/abs/2408.05097)
 
 **SeRpEnt: Selective Resampling for Expressive State Space Models**  
