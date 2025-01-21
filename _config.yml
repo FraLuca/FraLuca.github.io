@@ -21,6 +21,7 @@ author: Luca Franco
 
 navbar-links:
   Publications: "pubs"
+  Resume: "resume"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
