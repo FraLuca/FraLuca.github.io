@@ -5,8 +5,8 @@ subtitle: List of my research activities
 ---
 
 <div style="text-align: center;">
-Below, you can find a curated list of my research work.  
-For the most recent and updated list, please visit my [Google Scholar](https://scholar.google.com/citations?user=c5jyrK4AAAAJ&hl=en).  
+Below, you can find a curated list of my research work.<br>
+For the most recent and updated list, please visit my <a href="https://scholar.google.com/citations?user=c5jyrK4AAAAJ&hl=en">Google Scholar</a>.
 </div>
 
 <hr style="margin: 40px 0;">
