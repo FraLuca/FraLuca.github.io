@@ -5,7 +5,7 @@ subtitle: List of my research activities
 ---
 
 Welcome to my publications page. Below, you can find a curated list of my research work.  
-For the most recent and updated list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=c5jyrK4AAAAJ&hl=en).  
+For the most recent and updated list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=c5jyrK4AAAAJ&hl=en).  
 
 
 
