@@ -4,8 +4,8 @@ title: Publications
 subtitle: List of my research activities
 ---
 
-Welcome to my publications page. Below, you can find a curated list of my research work.  
-For the most recent and updated list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=c5jyrK4AAAAJ&hl=en).  
+Below, you can find a curated list of my research work.  
+For the most recent and updated list, please visit my [Google Scholar](https://scholar.google.com/citations?user=c5jyrK4AAAAJ&hl=en).  
 
 
 
@@ -22,7 +22,7 @@ For the most recent and updated list, please visit my [Google Scholar profile](h
 **Hyperbolic Active Learning for Semantic Segmentation under Domain Shift** [PDF](https://arxiv.org/abs/2306.11180)  
   <span style="color: gray;"><span style="font-size: 17px;">**L. Franco** · P. Mandica · K. Kallidromitis · D. Guillory · Y.-T. Li · T. Darrell · F. Galasso</span></span>  
   <span style="font-size: 17px;">*International Conference on Machine Learning (ICML 2024)*</span>  
-  <span style="color: gray;"><span style="font-size: 15px;">Active learning, Semantic segmentation, Domain adaptation, Hyperbolic neural networks, Uncertainty estimation</span></span>  
+  <span style="color: gray;"><span style="font-size: 15px;">Active learning, Semantic segmentation, Domain adaptation, Hyperbolic neural networks, Uncertainty</span></span>  
 
 **Hyperbolic Self-Paced Learning for Self-Supervised Skeleton Action Representations** [PDF](https://arxiv.org/abs/2303.06242)  
   <span style="color: gray;"><span style="font-size: 17px;">**L. Franco** · P. Mandica · B. Munjal · F. Galasso</span></span>  
